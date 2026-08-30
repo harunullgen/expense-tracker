@@ -118,10 +118,10 @@ This project demonstrates:
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpeg" width="220" alt="Home Screen">
-  <img src="screenshots/add-transaction.jpeg" width="220" alt="Add Transaction Screen">
-  <img src="screenshots/transactions.jpeg" width="220" alt="Transactions Screen">
-  <img src="screenshots/statistics.jpeg" width="220" alt="Statistics Screen">
+  <img src="screenshots/home.jpg" width="220" alt="Home Screen">
+  <img src="screenshots/add-transaction.jpg" width="220" alt="Add Transaction Screen">
+  <img src="screenshots/transactions.jpg" width="220" alt="Transactions Screen">
+  <img src="screenshots/statistics.jpg" width="220" alt="Statistics Screen">
 </p>
 
 ## Future Improvements
