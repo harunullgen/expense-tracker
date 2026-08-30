@@ -1,8 +1,8 @@
 # Expense Tracker
 
-A clean, local-first mobile expense tracking application built with **React Native, Expo, and TypeScript**.
+A clean and modern mobile expense tracking application built with **React Native, Expo, and TypeScript**.
 
-The project was created as a portfolio project for Mobile Developer internship and junior applications.
+Expense Tracker helps users manage their income and expenses, track their balance, organize transactions by category, and analyze monthly spending through a simple mobile interface.
 
 ## Features
 
@@ -114,17 +114,16 @@ This project demonstrates:
 - form validation
 - mobile-first UI design
 
+
+```html
 ## Screenshots
 
-Add screenshots before publishing the repository:
-
-```text
-screenshots/
-├── home.png
-├── add-transaction.png
-├── transactions.png
-└── statistics.png
-```
+<p align="center">
+  <img src="screenshots/home.jpeg" width="220" alt="Home Screen" />
+  <img src="screenshots/add-transaction.jpeg" width="220" alt="Add Transaction Screen" />
+  <img src="screenshots/transactions.jpeg" width="220" alt="Transactions Screen" />
+  <img src="screenshots/statistics.jpeg" width="220" alt="Statistics Screen" />
+</p>
 
 ## Future Improvements
 
